@@ -47,45 +47,41 @@ n'obtiendront pas de points pour le système de classement officiel.
 l'IBSA, la version anglaise prévaut.
 
 **Ces règles se regroupent en quatre** **parties :**
-
-  - A : Définitions 
-
-  - B : Règles de jeu 
-
-  - C : Description de l’équipement 
-
-  - D : Règles de jeu en équipe
+- A : Définitions 
+- B : Règles de jeu 
+- C : Description de l’équipement 
+- D : Règles de jeu en équipe
 
 # **A : DÉFINITIONS**
 
   - **Main tenante**  
-    \> La main qui tient la raquette (y compris les 6 cm au-dessus du \>
+    La main qui tient la raquette (y compris les 6 cm au-dessus du \>
     poignet). La main tenante inclut la protection comme décrite dans \>
     la règle 10.2.
 
   - **Écran central :**  
-    \> La planche rectangulaire qui divise la zone de jeu en deux. \>
+    La planche rectangulaire qui divise la zone de jeu en deux. \>
     L'écran central repose sur les parois latérales au-dessus de la \>
     zone de jeu.
 
   - **Planche de contact :**  
-    \> La planche étroite en bois qui repose sur le dessus des deux \>
+    La planche étroite en bois qui repose sur le dessus des deux \>
     parois de fond.
 
   - **Abandonner un match :**  
-    \> Lorsqu'un joueur «abandonne un match», il démissionne \>
+    Lorsqu'un joueur «abandonne un match», il démissionne \>
     volontairement, par exemple en raison d'une blessure.  
-    \> Le joueur qui abandonne un match gardera ses sets gagnés et ses
-    \> points dans le set en cours. Il perd avec le résultat le plus \>
+    Le joueur qui abandonne un match gardera ses sets gagnés et ses
+    points dans le set en cours. Il perd avec le résultat le plus \>
     faible possible.  
-    \> Exemple : Le joueur A a remporté le premier set 11:5 et mène dans
-    \> le deuxième set 7:2, puis il abandonne le match en raison d'une
-    \> blessure. Le joueur B gagne ce match 11:5, 7:11,0:11.
+    Exemple : Le joueur A a remporté le premier set 11:5 et mène dans
+    le deuxième set 7:2, puis il abandonne le match en raison d'une
+    blessure. Le joueur B gagne ce match 11:5, 7:11,0:11.
 
   - **But** : Un but est marqué lorsque la balle passe entièrement dans
-    \> la poche de  
-    \> but ou que l’arbitre juge que le joueur a repoussé la balle hors
-    \> de la poche de but, avec n’importe quelle partie de son corps \>
+    la poche de  
+    but ou que l’arbitre juge que le joueur a repoussé la balle hors
+    de la poche de but, avec n’importe quelle partie de son corps \>
     volontairement.
 
   - **Zone de but** : Espace entre la poche de but et la ligne de \>
@@ -103,10 +99,10 @@ l'IBSA, la version anglaise prévaut.
 
   - **Perdre par défaut** : Un joueur « perd un match par défaut » \>
     lorsqu'il enfreint certaines règles.  
-    \> Le joueur qui perd un match par défaut perdra tous les sets sans
-    \> aucun point. Les points et les sets déjà gagnés par ce joueur \>
+    Le joueur qui perd un match par défaut perdra tous les sets sans
+    aucun point. Les points et les sets déjà gagnés par ce joueur \>
     seront annulés.  
-    \> Exemple : 11 :0, 11:0, 11:0.
+    Exemple : 11 :0, 11:0, 11:0.
 
   - **Match** : Toute combinaison de sets, par exemple le meilleur de \>
     trois (2-1) ou dans la phase à élimination directe au sein des \>
@@ -129,9 +125,9 @@ l'IBSA, la version anglaise prévaut.
         jeu.
 
   - **Pénalité :** Lourde sanction pour infraction grave aux règles ou
-    \> mauvais comportement du joueur ou de l'entraîneur pendant le \>
+    mauvais comportement du joueur ou de l'entraîneur pendant le \>
     match (y compris toutes les pauses). Une pénalité peut être donnée
-    \> avec ou sans avertissement préalable. Donner une pénalité ne \>
+    avec ou sans avertissement préalable. Donner une pénalité ne \>
     modifiera pas l'ordre de service.
     
       - Si le match a été arrêté par l'arbitre pour donner une \>
@@ -158,7 +154,7 @@ l'IBSA, la version anglaise prévaut.
 
   - **L'échauffement :** s'applique à la compétition individuelle et \>
     en équipe.  
-    \> Il s’agit du temps durant lequel deux joueurs ou plus peuvent \>
+    Il s’agit du temps durant lequel deux joueurs ou plus peuvent \>
     pratiquer librement les uns avec les autres et s'habituer à la \>
     table. La durée de l'échauffement est généralement de 60 \>
     secondes, mais peut être changée par l'arbitre s'il le juge \>
@@ -181,7 +177,7 @@ l'IBSA, la version anglaise prévaut.
         avertissement, il continuera en refaisant le service.
     
       - Si l'avertissement a été donné lorsque la balle n'était pas en
-        \> jeu, le match se poursuivra avec le service régulier suivant.
+        jeu, le match se poursuivra avec le service régulier suivant.
 
 # **B : Règles de jeu :**
 
@@ -192,7 +188,7 @@ l'IBSA, la version anglaise prévaut.
   - Arbitre (personne voyante)
 
   - Arbitre second (également personne voyante, il est garant du temps
-    \> écoulé, du temps mort, du score et du nombre de services)
+    écoulé, du temps mort, du score et du nombre de services)
 
 L'arbitre peut également assumer toutes les tâches de l’arbitre second.
 Cette règle ne doit pas s'appliquer aux matchs éliminatoires lors des
@@ -208,8 +204,8 @@ l'annoncer avant le match.
 
 2.4 L'arbitre veillera à ce que les règles du jeu soient respectées dans
 tous les cas. L'arbitre a la possibilité d'avoir recours à l'assistance
-de l’arbitre second (s’il/elle est présent(e) avant de prendre une
-décision ou d'annoncer « let » et de refaire le service s'il/elle n'a
+de l’arbitre second (s’il/elle est présent(e)) avant de prendre une
+décision ou d'annoncer «&nbsp;let&nbsp;» et de refaire le service s'il/elle n'a
 pas été en mesure d'évaluer correctement une situation avec certitude.
 La décision de l'arbitre est définitive.
 
@@ -393,9 +389,9 @@ pas autorisé et aboutira à un service illégal. L'adversaire recevra un
   - Après l'avoir placée sur la surface de jeu et l'avoir lâchée, la \>
     balle peut rouler avant que le joueur ne la frappe avec la \>
     raquette, à condition que ce joueur ne la déplace pas exprès. (Par
-    \> exemple, un joueur ne possédant qu’une main aura du mal à garder
-    \> la balle immobile à l’endroit ou la table n'est pas complètement
-    \> uniforme).
+    exemple, un joueur ne possédant qu’une main aura du mal à garder
+    la balle immobile à l’endroit ou la table n'est pas complètement
+    uniforme).
 
 Le joueur peut placer la balle à un endroit différent sur la surface de
 jeu même après que l'arbitre ait commencé le jeu en sifflant (la règle
@@ -408,8 +404,8 @@ vaut un (1) service.
 interprétations sera appliquée :
 
   - S’il n'y avait pas de son audible (pour l'arbitre), le joueur peut
-    \> faire plusieurs mouvements vers la balle (jusqu'à ce qu'il/elle
-    \> atteigne la limite de 2 secondes pour les services).
+    faire plusieurs mouvements vers la balle (jusqu'à ce qu'il/elle
+    atteigne la limite de 2 secondes pour les services).
 
   - S’il y avait un son audible (pour l'arbitre), le mouvement compte \>
     comme un service.
@@ -476,7 +472,7 @@ Chacun des incidents énumérés dans la section 9.1 sera sanctionné par
   - 1ère infraction : Avertissement
 
   - 2<sup>ème</sup> infraction et infractions suivantes : une pénalité
-    de \> deux (2) points sera émise par l'arbitre.
+    de deux (2) points sera émise par l'arbitre.
 
 9.1.1 Ne pas jouer depuis l’arrière de la table.
 
@@ -484,7 +480,7 @@ Chacun des incidents énumérés dans la section 9.1 sera sanctionné par
     jouer du côté de la table. Il n'est pas permis de s'accrocher à \>
     n'importe quelle partie de la table avec la main non-tenante, \>
     sauf au bout de la table. “Le bout” est défini par la courbe de la
-    \> table, y compris la courbe entière.
+    table, y compris la courbe entière.
 
 9.1.2 Accrochage de la balle avec un doigt.
 
@@ -524,9 +520,9 @@ enverra directement l'entraîneur hors de la salle de jeu.
 9.3.1 Faute très grave de la part du joueur.
 
   - En cas, par exemple, d’injures envers l'arbitre, de lancer de balle
-    \> ou de raquette, ou d’actions similaires, l'arbitre a le droit de
-    \> pénaliser immédiatement le joueur fautif. Ce dernier perd le
-    match \> par défaut.
+    ou de raquette, ou d’actions similaires, l'arbitre a le droit de
+    pénaliser immédiatement le joueur fautif. Ce dernier perd le
+    match par défaut.
 
 9.3.2 L'arbitre peut envoyer des supporters ou des entraîneurs hors de
 la salle en cas de comportement antisportif.
@@ -547,7 +543,7 @@ dernières ne doivent pas descendre en dessous du coude.
     au-dessus du poignet.
 
   - la protection de la main ne doit pas dépasser une épaisseur de 2,5
-    \> cm sur le dos de la main du bout des doigts jusqu'au poignet
+    cm sur le dos de la main du bout des doigts jusqu'au poignet
 
   - La protection de la main ne doit pas élargir la main de plus de \>
     deux (2) cm de chaque côté.
@@ -565,12 +561,12 @@ n'est pas considérée comme faisant partie de la main tenante.
         l'articulation du poignet.
     
       - Porter un bandeau anti-transpirant avec la MÊME couleur que le
-        \> gant atteignant jusqu'à six (6) cm au-dessus de \>
+        gant atteignant jusqu'à six (6) cm au-dessus de \>
         l'articulation du poignet si la protection de la main est \>
         plus courte que cela.
     
       - Porter un bandeau anti-transpirant d’une couleur DIFFÉRENTE de
-        \> celle du gant en partant de six (6) cm au-dessus de \>
+        celle du gant en partant de six (6) cm au-dessus de \>
         l'articulation du poignet (de cette façon, le bras peut \>
         rester nu jusqu’à six (6) cm du poignet).
     
@@ -617,13 +613,13 @@ là où le diamètre/largeur du manche devient plus large que quatre (4)
 cm.
 
   - L'épaisseur de la couverture souple peut aller jusqu'à deux (2) mm
-    \> de chaque côté, mais la largeur totale de la lame ne doit pas
-    être \> supérieure à dix (10) mm. Par exemple, il est possible
-    d'avoir \> une raquette avec ces mesures : couverture souple de 2 mm
-    + lame \> de 6 mm + couverture souple de 2 mm.
+    de chaque côté, mais la largeur totale de la lame ne doit pas
+    être supérieure à dix (10) mm. Par exemple, il est possible
+    d'avoir une raquette avec ces mesures : couverture souple de 2 mm
+    + lame de 6 mm + couverture souple de 2 mm.
 
   - La largeur et la longueur de la zone de chevauchement du manche et
-    \> de la lame peuvent aller jusqu'à quarante (40)mm (ce qui est \>
+    de la lame peuvent aller jusqu'à quarante (40)mm (ce qui est \>
     compatible avec la largeur du manche).
 
 Plans disponibles sur le site Web de l'IBSA -
@@ -659,7 +655,7 @@ Dimensions :
   - Ligne de démarcation tactile pour la zone de but : 40 cm de diamètre
 
   - Planche de contact : 5 cm de surplomb à l'intérieur de la table, un
-    \> surplomb à l'extérieur de la table est autorisé.
+    surplomb à l'extérieur de la table est autorisé.
 
   - Écran central : 42 cm du haut des parois latérales, 10 cm \>
     d'ouverture depuis le pont de jeu.
