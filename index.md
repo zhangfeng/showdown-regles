@@ -7,7 +7,7 @@ layout: default
 
 # 2018 – 2021
 
-![](media/image1.jpg)
+![Logo Showdown France](logo.jpg)
 
 ## Cette traduction est proposée à titre indicatif
 
@@ -16,10 +16,35 @@ Showdown de l'IBSA, Handen Octobre 2017. Les règles sont valables depuis
 le 1er janvier 2018.
 
 Ces règles doivent régir le Showdown à tous les Championnats du Monde,
-Continentaux d’IBSA et tous les autres événements sous l’égide de
+Continentaux de l’IBSA et tous les autres événements sous l’égide de
 l'IBSA.
 
-# **1. Préambule**
+# Table des matières
+
+- [**1. Préambule**](#preambule)
+- [**A : DÉFINITIONS**](#as)
+- [**B : Règles de jeu**](#bs)
+  - [**2. RÈGLES GÉNÉRALES**](#bs2)
+  - [**3. Temps morts**](#bs3)
+  - [**4. Marquage des points**](#bs4)
+  - [**5. DÉBUT DU JEU**](#bs5)
+  - [**6. Services**](#bs6)
+  - [**7. Jeu**](#bs7)
+  - [**8. Balle morte**](#bs8)
+  - [**9. PÉNALITÉS**](#bs9)
+  - [**10. TENUE**](#bs10)
+- [**C : DESCRIPTION DE L’ÉQUIPEMENT**](#cs)
+  - [**11. RAQUETTES**](#cs11)
+  - [**12. BALLES**](#cs12)
+  - [**13. TABLE**](#cs13)
+- [**D : RÈGLES DE JEU EN ÉQUIPE**](#ds)
+  - [**14. RÈGLES GÉNÉRALES POUR LE JEU D'ÉQUIPE**](#ds14)
+  - [**15. ÉQUIPES**](#ds15)
+  - [**16. RÈGLES SUPPLÉMENTAIRES**](#ds16)
+  - [**17. SYSTÈME de JEU**](#ds17)
+- [**REMERCIEMENTS**](#remerciements)
+
+# **1. Préambule** {#preambule}
 
 Le Showdown est joué par deux joueurs. Le jeu se joue sur une table
 rectangulaire avec des poches de but à chaque extrémité, et un écran
@@ -47,12 +72,12 @@ n'obtiendront pas de points pour le système de classement officiel.
 l'IBSA, la version anglaise prévaut.
 
 **Ces règles se regroupent en quatre** **parties :**
-- A : Définitions 
-- B : Règles de jeu 
-- C : Description de l’équipement 
-- D : Règles de jeu en équipe
+- [A : Définitions](#as)
+- [B : Règles de jeu](#bs)
+- [C : Description de l’équipement](#cs)
+- [D : Règles de jeu en équipe](#ds)
 
-# **A : DÉFINITIONS**
+# **A : DÉFINITIONS** {#as}
 
   - **Main tenante**  
     La main qui tient la raquette (y compris les 6 cm au-dessus du \>
@@ -179,9 +204,9 @@ l'IBSA, la version anglaise prévaut.
       - Si l'avertissement a été donné lorsque la balle n'était pas en
         jeu, le match se poursuivra avec le service régulier suivant.
 
-# **B : Règles de jeu :**
+# **B : Règles de jeu** {#bs}
 
-## **2. RÈGLES GÉNÉRALES :**
+## **2. RÈGLES GÉNÉRALES** {#bs2}
 
 2.1 Les officiels pour chaque table durant un tournoi sont :
 
@@ -263,7 +288,7 @@ le set est terminé. L'arbitre doit ouvrir la porte entre les sets.
 
 2.17 L'entraîneur doit rester du côté de la table de son joueur.
 
-## **3. Temps morts**
+## **3. Temps morts** {#bs3}
 
 3.1 Chaque joueur aura droit à un (1) temps mort d'une (1) minute (60
 secondes) pendant un set. Les demandes de temps mort doivent être faites
@@ -287,7 +312,7 @@ perd le match par défaut.
 3.4 Le chronomètre est arrêté pendant un temps mort ou une pause dans le
 jeu.
 
-## **4. Marquage des points**
+## **4. Marquage des points** {#bs4}
 
 4.1 Deux (2) points sont accordés pour un but. Lorsqu'un but est marqué,
 l'arbitre donne deux coups de sifflet.
@@ -331,7 +356,7 @@ ailleurs, dans ou hors de la table, il y a une défense illégale et un
 phrase dans cette règle : Aucun contact n'est autorisé dans la zone de
 but avec la balle.
 
-## **5. DÉBUT DU JEU**
+## **5. DÉBUT DU JEU** {#bs5}
 
 5.1 Avant le début du match l'arbitre, l’arbitre second, les joueurs et
 les entraîneurs sont présentés par l'arbitre.
@@ -372,7 +397,7 @@ est le serveur. B est le receveur. "Est-ce que B est prêt? - Oui\! -
 Est-ce que A est prêt? - Oui\! - Commençons, le score est 0-0. Premier
 service de A. - Sifflet."
 
-## **6. Services**
+## **6. Services** {#bs6}
 
 6.1 Après un coup de sifflet de l'arbitre, le joueur qui sert doit le
 faire dans les deux (2) secondes. S'il ne le fait pas, un (1) point est
@@ -425,7 +450,7 @@ de l'autre côté de la table, aucune erreur de jeu ne sera signalée.
 à servir sans retarder le jeu. Le joueur montre qu'il est prêt à servir
 en plaçant la balle sur la table.
 
-## **7. Jeu**
+## **7. Jeu** {#bs7}
 
 7.1 Un (1) point est accordé à l'adversaire du joueur qui tient sa main
 non-tenante dans la zone de jeu, sauf lors du changement de main.
@@ -452,7 +477,7 @@ comme cassée lorsqu'elle est gravement endommagée ou si une ou plusieurs
 de ses parties importantes se sont détachées et ne sont plus attachées
 les unes aux autres.
 
-## **8. Balle morte**
+## **8. Balle morte** {#bs8}
 
 8.1 L'arbitre déclare une « balle morte » et fait reservir quand, à son
 avis, la balle se déplace si lentement qu'elle n'atteindra pas le point
@@ -463,7 +488,7 @@ joueur a perdu sa trace.
 l'arbitre la déclare morte. La balle est inaudible lorsque l'arbitre
 n'est pas capable de l'entendre bouger sur la table.
 
-## **9. PÉNALITÉS**
+## **9. PÉNALITÉS** {#bs9}
 
 **9.1 Pénalités avec avertissements.**
 
@@ -532,7 +557,7 @@ l'arbitre attend cinq (5) minutes et que le joueur n'apparaît pas, il
 perd le match par défaut. Si un joueur arrive à plusieurs reprises en
 retard, il peut être exclu du tournoi.
 
-## **10. TENUE**
+## **10. TENUE** {#bs10}
 
 10.1. Les joueurs doivent porter un haut à manches courtes, ces
 dernières ne doivent pas descendre en dessous du coude.
@@ -585,9 +610,9 @@ pour pouvoir participer à une compétition.
 
 10.5. L'arbitre doit être clairement identifiable comme tel.
 
-# **C : DESCRIPTION DE L’ÉQUIPEMENT**
+# **C : DESCRIPTION DE L’ÉQUIPEMENT** {#cs}
 
-## **11. RAQUETTES**
+## **11. RAQUETTES** {#cs11}
 
 Les raquettes d'une longueur de trente (30) cm, doivent être construites
 d'un matériau dur et lisse. Elles peuvent être recouvertes d’un matériau
@@ -625,7 +650,7 @@ cm.
 Plans disponibles sur le site Web de l'IBSA -
 http://www.ibsasport.org/sports/showdown/rules
 
-## **12. BALLES**
+## **12. BALLES** {#cs12}
 
 Les balles doivent être rendues audibles. Les balles doivent avoir six
 (6) cm de diamètre avec une surface dure et lisse. Les balles doivent
@@ -634,7 +659,7 @@ utilisées pendant les tournois de l'IBSA. Les tournois IBSA sont tous
 les championnats officiels et les tournois où vous pouvez recevoir des
 points pour la liste de classement IBSA.
 
-## **13. TABLE**
+## **13. TABLE** {#cs13}
 
 Dimensions :
 
@@ -663,15 +688,15 @@ Dimensions :
 Plans disponibles sur le site Web de l'IBSA -
 http://www.ibsasport.org/sports/showdown/rules
 
-# **D : RÈGLES DE JEU EN ÉQUIPE**
+# **D : RÈGLES DE JEU EN ÉQUIPE** {#ds}
 
-## **14. RÈGLES GÉNÉRALES POUR LE JEU D'ÉQUIPE**
+## **14. RÈGLES GÉNÉRALES POUR LE JEU D'ÉQUIPE** {#ds14}
 
 14.1 La compétition par équipe se joue selon les règles de l'IBSA pour
 le jeu en équipe tel qu'il est indiqué ci-dessus sauf indication
 contraire.
 
-## **15. ÉQUIPES**
+## **15. ÉQUIPES** {#ds15}
 
 15.1 Une équipe doit être mixte, c'est-à-dire que la composition d’une
 équipe doit être de deux joueurs (2) et d’une (1) joueuse et ou
@@ -684,7 +709,7 @@ d'une autre équipe nationale, par exemple un joueur de l'équipe
 nationale A ne peut pas jouer pour l'équipe nationale B pendant le
 tournoi.
 
-## **16. RÈGLES SUPPLÉMENTAIRES**
+## **16. RÈGLES SUPPLÉMENTAIRES** {#ds16}
 
 16.1 l’équipe qui remporte le match est celle qui atteint un minimum de
 trente-et-un (31) points avec un écart de deux points (2), par exemple :
@@ -713,7 +738,7 @@ L'arbitre doit ouvrir la porte.
 
 16.7 Chaque équipe peut prendre un (1) temps mort par match.
 
-## **17. SYSTÈME de JEU**
+## **17. SYSTÈME de JEU** {#ds17}
 
 1\. Le joueur 1 de l'équipe A (A1) sert 3 fois contre le joueur 1 de
 l'équipe B (B1).
@@ -738,14 +763,14 @@ contre le joueur B1.
 
 Cet ordre est répété jusqu'à la fin du match.
 
-# **REMERCIEMENTS**
+# **REMERCIEMENTS** {#remerciements}
 
-  - DYANA SAHNOUN Licence en anglais
+- DYANA SAHNOUN Licence en anglais
 
-  - KHALIL TRIFI Enseignant d’activité physique adaptée
+- KHALIL TRIFI Enseignant d’activité physique adaptée
 
-  - EMMANUEL COUTRIS Référent Showdown handisport
+- EMMANUEL COUTRIS Référent Showdown handisport
 
-  - MADJID GUITOUNE Correspondant clubs Showdown handisport
+- MADJID GUITOUNE Correspondant clubs Showdown handisport
 
-  - ELSA DUPOMMIER-ROUILLARD Relectrice
+- ELSA DUPOMMIER-ROUILLARD Relectrice
