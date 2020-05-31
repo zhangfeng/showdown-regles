@@ -1,3 +1,8 @@
+---
+title: Règles du Showdown 2018 - 2021
+layout: default
+---
+
 # RÈGLES DU SHOWDOWN
 
 # 2018 – 2021
