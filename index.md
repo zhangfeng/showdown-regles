@@ -22,8 +22,8 @@ l'IBSA.
 # Table des matières
 
 - [**1. Préambule**](#preambule)
-- [**A : DÉFINITIONS**](#as)
-- [**B : Règles de jeu**](#bs)
+- [**A&nbsp;: DÉFINITIONS**](#as)
+- [**B&nbsp;: Règles de jeu**](#bs)
   - [**2. RÈGLES GÉNÉRALES**](#bs2)
   - [**3. Temps morts**](#bs3)
   - [**4. Marquage des points**](#bs4)
@@ -33,11 +33,11 @@ l'IBSA.
   - [**8. Balle morte**](#bs8)
   - [**9. PÉNALITÉS**](#bs9)
   - [**10. TENUE**](#bs10)
-- [**C : DESCRIPTION DE L’ÉQUIPEMENT**](#cs)
+- [**C&nbsp;: DESCRIPTION DE L’ÉQUIPEMENT**](#cs)
   - [**11. RAQUETTES**](#cs11)
   - [**12. BALLES**](#cs12)
   - [**13. TABLE**](#cs13)
-- [**D : RÈGLES DE JEU EN ÉQUIPE**](#ds)
+- [**D&nbsp;: RÈGLES DE JEU EN ÉQUIPE**](#ds)
   - [**14. RÈGLES GÉNÉRALES POUR LE JEU D'ÉQUIPE**](#ds14)
   - [**15. ÉQUIPES**](#ds15)
   - [**16. RÈGLES SUPPLÉMENTAIRES**](#ds16)
@@ -71,144 +71,170 @@ n'obtiendront pas de points pour le système de classement officiel.
 1.4 En cas de difficultés de compréhension des règles du Showdown de
 l'IBSA, la version anglaise prévaut.
 
-**Ces règles se regroupent en quatre** **parties :**
-- [A : Définitions](#as)
-- [B : Règles de jeu](#bs)
-- [C : Description de l’équipement](#cs)
-- [D : Règles de jeu en équipe](#ds)
+**Ces règles se regroupent en quatre parties&nbsp;:**
+- [A&nbsp;: Définitions](#as)
+- [B&nbsp;: Règles de jeu](#bs)
+- [C&nbsp;: Description de l’équipement](#cs)
+- [D&nbsp;: Règles de jeu en équipe](#ds)
 
-# **A : DÉFINITIONS** {#as}
+# **A&nbsp;: DÉFINITIONS** {#as}
 
-  - **Main tenante**  
-    La main qui tient la raquette (y compris les 6 cm au-dessus du \>
-    poignet). La main tenante inclut la protection comme décrite dans \>
-    la règle 10.2.
+**Main tenante**  
+: La main qui tient la raquette (y compris les 6 cm au-dessus du
+  poignet). La main tenante inclut la protection comme décrite dans
+  la règle 10.2.
 
-  - **Écran central :**  
-    La planche rectangulaire qui divise la zone de jeu en deux. \>
-    L'écran central repose sur les parois latérales au-dessus de la \>
-    zone de jeu.
+**Écran central**  
+: La planche rectangulaire qui divise la zone de jeu en deux.
 
-  - **Planche de contact :**  
-    La planche étroite en bois qui repose sur le dessus des deux \>
-    parois de fond.
+  L'écran central repose sur les parois latérales au-dessus de la
+  zone de jeu.
 
-  - **Abandonner un match :**  
-    Lorsqu'un joueur «abandonne un match», il démissionne \>
-    volontairement, par exemple en raison d'une blessure.  
-    Le joueur qui abandonne un match gardera ses sets gagnés et ses
-    points dans le set en cours. Il perd avec le résultat le plus \>
-    faible possible.  
-    Exemple : Le joueur A a remporté le premier set 11:5 et mène dans
-    le deuxième set 7:2, puis il abandonne le match en raison d'une
-    blessure. Le joueur B gagne ce match 11:5, 7:11,0:11.
+**Planche de contact**  
+: La planche étroite en bois qui repose sur le dessus des deux
+  parois de fond.
 
-  - **But** : Un but est marqué lorsque la balle passe entièrement dans
-    la poche de  
-    but ou que l’arbitre juge que le joueur a repoussé la balle hors
-    de la poche de but, avec n’importe quelle partie de son corps \>
-    volontairement.
+**Abandonner un match**  
+: Lorsqu'un joueur «abandonne un match», il démissionne
+  volontairement, par exemple en raison d'une blessure.  
 
-  - **Zone de but** : Espace entre la poche de but et la ligne de \>
-    démarcation tactile incluse.
+  Le joueur qui abandonne un match gardera ses sets gagnés et ses
+  points dans le set en cours. Il perd avec le résultat le plus
+  faible possible.  
 
-  - **Poche de but** : L'ouverture dans le pont de jeu et la paroi de \>
-    but.
+  Exemple&nbsp;: Le joueur A a remporté le premier set 11:5 et mène dans
+  le deuxième set 7:2, puis il abandonne le match en raison d'une
+  blessure. Le joueur B gagne ce match 11:5, 7:11,0:11.
 
-  - **Langue** : Le joueur et son entraîneur sont autorisés à parler \>
-    dans n'importe quelle langue, à quelques exceptions près :
-    
-    > Si l'entraîneur veut encourager ou soutenir son joueur lorsque la
-    > balle n'est pas en jeu, seule la langue officielle du tournoi est
-    > autorisée (règle 9.1 ou 9.2 s’applique en cas d'infraction).
+**But**
+: Un but est marqué lorsque la balle passe entièrement dans
+  la poche de  
+  but ou que l’arbitre juge que le joueur a repoussé la balle hors
+  de la poche de but, avec n’importe quelle partie de son corps
+  volontairement.
 
-  - **Perdre par défaut** : Un joueur « perd un match par défaut » \>
-    lorsqu'il enfreint certaines règles.  
-    Le joueur qui perd un match par défaut perdra tous les sets sans
-    aucun point. Les points et les sets déjà gagnés par ce joueur \>
-    seront annulés.  
-    Exemple : 11 :0, 11:0, 11:0.
+**Zone de but**
+: Espace entre la poche de but et la ligne de
+  démarcation tactile incluse.
 
-  - **Match** : Toute combinaison de sets, par exemple le meilleur de \>
-    trois (2-1) ou dans la phase à élimination directe au sein des \>
-    championnat continentaux et mondiaux: le meilleur de cinq (3-2)
+**Poche de but**
+: L'ouverture dans le pont de jeu et la paroi de
+  but.
 
-  - **Main non tenante** : La main qui ne tient pas la raquette, peut \>
-    également être appelée "main libre".
+**Langue**
+: Le joueur et son entraîneur sont autorisés à parler
+  dans n'importe quelle langue, à quelques exceptions près&nbsp;:
+  
+  > si l'entraîneur veut encourager ou soutenir son joueur lorsque la
+  > balle n'est pas en jeu, seule la langue officielle du tournoi est
+  > autorisée (règle 9.1 ou 9.2 s’applique en cas d'infraction).
 
-  - **Zone de jeu** : Est définie comme suit :
-    
-      - Sur les côtés, par les parois latérales et les parois de but \>
-        sans limites de hauteur.
-    
-      - En bas, par la surface du pont de jeu.
-    
-      - Le haut des parois latérales.
-    
-      - Le dessus de la planche de contact est exclu. Le dessous et \>
-        l’avant de la planche de contact font partie de la zone de \>
-        jeu.
+**Perdre par défaut**
+: Un joueur «&nbsp;perd un match par défaut&nbsp;»
+  lorsqu'il enfreint certaines règles.  
 
-  - **Pénalité :** Lourde sanction pour infraction grave aux règles ou
-    mauvais comportement du joueur ou de l'entraîneur pendant le \>
-    match (y compris toutes les pauses). Une pénalité peut être donnée
-    avec ou sans avertissement préalable. Donner une pénalité ne \>
-    modifiera pas l'ordre de service.
-    
-      - Si le match a été arrêté par l'arbitre pour donner une \>
-        pénalité, il se poursuivra en refaisant le service.
-    
-      - Si la pénalité a été donnée lorsque la balle n'était pas en \>
-        jeu, le match se poursuivra avec le service régulier suivant.
+  Le joueur qui perd un match par défaut perdra tous les sets sans
+  aucun point. Les points et les sets déjà gagnés par ce joueur
+  seront annulés.  
 
-  - **Erreur de jeu** : Échec causé par des erreurs techniques ou \>
-    involontaires pendant le jeu, entraînant généralement la perte \>
-    d'un (1) point.
+  Exemple&nbsp;: 11:0, 11:0, 11:0.
 
-  - **Pont de jeu :** La surface de la planche horizontale.
+**Match**
+: Toute combinaison de sets, par exemple le meilleur de
+  trois (2-1) ou dans la phase à élimination directe au sein des
+  championnat continentaux et mondiaux: le meilleur de cinq (3-2)
 
-  - **Tour de service :** Une série de deux (2) services.
+**Main non tenante**
+: La main qui ne tient pas la raquette, peut
+  également être appelée "main libre".
 
-  - **Set :** Un set fait partie d'un match où un joueur gagne \>
-    lorsqu'il atteint un minimum de onze (11) points avec une marge \>
-    de deux (2) points sur son adversaire. Les matchs par équipe sont \>
-    joués avec un minimum de 31 points avec une marge de (2) points \>
-    sur l'équipe adverse.
+**Zone de jeu**
+: Est définie comme suit&nbsp;:
+  
+  - Sur les côtés, par les parois latérales et les parois de but
+    sans limites de hauteur.
 
-  - **Temps d'arrêt :** Le temps de jeu total accumulé.
+  - En bas, par la surface du pont de jeu.
 
-  - **L'échauffement :** s'applique à la compétition individuelle et \>
-    en équipe.  
-    Il s’agit du temps durant lequel deux joueurs ou plus peuvent \>
-    pratiquer librement les uns avec les autres et s'habituer à la \>
-    table. La durée de l'échauffement est généralement de 60 \>
-    secondes, mais peut être changée par l'arbitre s'il le juge \>
-    approprié. En outre, l'échauffement peut être complètement omis. \>
-    Pendant l'échauffement, les joueurs doivent porter tout \>
-    l'équipement requis du Showdown. De plus, il n'est pas permis de \>
-    parler entre le joueur et son entraîneur pendant l’échauffement \>
-    (la règle 9.1 ou 9.2 s'applique en cas d'infraction). \>
-    L'échauffement est déclenché et arrêté par l'arbitre en sifflant \>
-    ou en l’annonçant verbalement.
+  - Le haut des parois latérales.
 
-  - **Avertissement** : Les avertissements émis sont valables pour \>
-    l'ensemble du match.
-    
-    > Un avertissement émis dans le jeu d'équipe est valable pour toute
-    > l'équipe et l'ensemble du match. L'arbitre peut émettre un
-    > avertissement lorsque la balle est en jeu ou en pause.
-    
-      - Si le match a été arrêté par l'arbitre pour émettre un \>
-        avertissement, il continuera en refaisant le service.
-    
-      - Si l'avertissement a été donné lorsque la balle n'était pas en
-        jeu, le match se poursuivra avec le service régulier suivant.
+  - Le dessus de la planche de contact est exclu. Le dessous et
+    l’avant de la planche de contact font partie de la zone de
+    jeu.
 
-# **B : Règles de jeu** {#bs}
+**Pénalité**
+: Lourde sanction pour infraction grave aux règles ou
+  mauvais comportement du joueur ou de l'entraîneur pendant le
+  match (y compris toutes les pauses). Une pénalité peut être donnée
+  avec ou sans avertissement préalable. Donner une pénalité ne
+  modifiera pas l'ordre de service.
+  
+  - Si le match a été arrêté par l'arbitre pour donner une
+    pénalité, il se poursuivra en refaisant le service.
+
+  - Si la pénalité a été donnée lorsque la balle n'était pas en
+    jeu, le match se poursuivra avec le service régulier suivant.
+
+**Erreur de jeu**
+: Échec causé par des erreurs techniques ou
+  involontaires pendant le jeu, entraînant généralement la perte
+  d'un (1) point.
+
+**Pont de jeu**
+: La surface de la planche horizontale.
+
+**Tour de service**
+: Une série de deux (2) services.
+
+**Set**
+: Un set fait partie d'un match où un joueur gagne
+  lorsqu'il atteint un minimum de onze (11) points avec une marge
+  de deux (2) points sur son adversaire. Les matchs par équipe sont
+  joués avec un minimum de 31 points avec une marge de (2) points
+  sur l'équipe adverse.
+
+**Temps d'arrêt**
+: Le temps de jeu total accumulé.
+
+**L'échauffement**
+: s'applique à la compétition individuelle et
+  en équipe.  
+
+  Il s’agit du temps durant lequel deux joueurs ou plus peuvent
+  pratiquer librement les uns avec les autres et s'habituer à la
+  table. La durée de l'échauffement est généralement de 60
+  secondes, mais peut être changée par l'arbitre s'il le juge
+  approprié. En outre, l'échauffement peut être complètement omis.
+
+  Pendant l'échauffement, les joueurs doivent porter tout
+  l'équipement requis du Showdown. De plus, il n'est pas permis de
+  parler entre le joueur et son entraîneur pendant l’échauffement
+  (la règle 9.1 ou 9.2 s'applique en cas d'infraction).
+
+  L'échauffement est déclenché et arrêté par l'arbitre en sifflant
+  ou en l’annonçant verbalement.
+
+**Avertissement**
+: Les avertissements émis sont valables pour
+  l'ensemble du match.
+  
+  Un avertissement émis dans le jeu d'équipe est valable pour toute
+  l'équipe et l'ensemble du match.
+  
+  L'arbitre peut émettre un avertissement lorsque la balle est en jeu
+  ou en pause.
+  
+  - Si le match a été arrêté par l'arbitre pour émettre un
+    avertissement, il continuera en refaisant le service.
+
+  - Si l'avertissement a été donné lorsque la balle n'était pas en
+    jeu, le match se poursuivra avec le service régulier suivant.
+
+# **B&nbsp;: Règles de jeu** {#bs}
 
 ## **2. RÈGLES GÉNÉRALES** {#bs2}
 
-2.1 Les officiels pour chaque table durant un tournoi sont :
+2.1 Les officiels pour chaque table durant un tournoi sont&nbsp;:
 
   - Arbitre (personne voyante)
 
@@ -345,7 +371,7 @@ balle de façon à ce qu’elle touche le haut de la planche de contact.
 
 4.9 Aucun contact n'est autorisé dans la zone de but avec la balle. Si
 cela se produit, un (1) point est accordé à l'adversaire de ce joueur.
-Cela signifie ceci : Si la balle touche la raquette ou la main tenante
+Cela signifie ceci&nbsp;: Si la balle touche la raquette ou la main tenante
 dans la zone de but et se dirige directement dans le but, il y a un but
 et deux (2) points sont accordés à l'adversaire. Si la balle touche la
 raquette ou la main tenante, et touche ensuite n'importe quelle autre
@@ -353,7 +379,7 @@ partie du corps, il y a une touche illégale et un (1) point est attribué
 à l'adversaire. Si la balle touche la raquette ou la main tenante, et va
 ailleurs, dans ou hors de la table, il y a une défense illégale et un
 (1) point est accordé à l'adversaire, comme expliqué dans la première
-phrase dans cette règle : Aucun contact n'est autorisé dans la zone de
+phrase dans cette règle&nbsp;: Aucun contact n'est autorisé dans la zone de
 but avec la balle.
 
 ## **5. DÉBUT DU JEU** {#bs5}
@@ -392,7 +418,7 @@ aux deux joueurs, d'abord le receveur, puis le serveur, s'ils sont prêts
 joueurs (répondant OUI), il annonce le score, puis le numéro de service.
 Ensuite, il signale le début du jeu en sifflant une fois. Cette
 procédure doit être utilisée en commençant le match, le set, après les
-temps morts et les pauses exceptionnellement longues. (Par exemple : A
+temps morts et les pauses exceptionnellement longues. (Par exemple&nbsp;: A
 est le serveur. B est le receveur. "Est-ce que B est prêt? - Oui\! -
 Est-ce que A est prêt? - Oui\! - Commençons, le score est 0-0. Premier
 service de A. - Sifflet."
@@ -411,8 +437,8 @@ joueur perd immédiatement un (1) point.
 pas autorisé et aboutira à un service illégal. L'adversaire recevra un
 (1) point.
 
-  - Après l'avoir placée sur la surface de jeu et l'avoir lâchée, la \>
-    balle peut rouler avant que le joueur ne la frappe avec la \>
+  - Après l'avoir placée sur la surface de jeu et l'avoir lâchée, la
+    balle peut rouler avant que le joueur ne la frappe avec la
     raquette, à condition que ce joueur ne la déplace pas exprès. (Par
     exemple, un joueur ne possédant qu’une main aura du mal à garder
     la balle immobile à l’endroit ou la table n'est pas complètement
@@ -426,13 +452,13 @@ jeu même après que l'arbitre ait commencé le jeu en sifflant (la règle
 vaut un (1) service.
 
 6.5 Si le joueur manque la balle pendant le service, l'une de ces deux
-interprétations sera appliquée :
+interprétations sera appliquée&nbsp;:
 
   - S’il n'y avait pas de son audible (pour l'arbitre), le joueur peut
     faire plusieurs mouvements vers la balle (jusqu'à ce qu'il/elle
     atteigne la limite de 2 secondes pour les services).
 
-  - S’il y avait un son audible (pour l'arbitre), le mouvement compte \>
+  - S’il y avait un son audible (pour l'arbitre), le mouvement compte
     comme un service.
 
 6.6 Chaque joueur servira deux (2) fois consécutives.
@@ -494,22 +520,22 @@ n'est pas capable de l'entendre bouger sur la table.
 
 Chacun des incidents énumérés dans la section 9.1 sera sanctionné par
 
-  - 1ère infraction : Avertissement
+  - 1<sup>ère</sup> infraction&nbsp;: Avertissement
 
-  - 2<sup>ème</sup> infraction et infractions suivantes : une pénalité
+  - 2<sup>ème</sup> infraction et infractions suivantes&nbsp;: une pénalité
     de deux (2) points sera émise par l'arbitre.
 
 9.1.1 Ne pas jouer depuis l’arrière de la table.
 
-  - Le jeu doit se faire du bout de la table. Un joueur ne doit pas \>
-    jouer du côté de la table. Il n'est pas permis de s'accrocher à \>
-    n'importe quelle partie de la table avec la main non-tenante, \>
+  - Le jeu doit se faire du bout de la table. Un joueur ne doit pas
+    jouer du côté de la table. Il n'est pas permis de s'accrocher à
+    n'importe quelle partie de la table avec la main non-tenante,
     sauf au bout de la table. “Le bout” est défini par la courbe de la
     table, y compris la courbe entière.
 
 9.1.2 Accrochage de la balle avec un doigt.
 
-  - Il n'est pas permis de déplacer la balle en l'accrochant ou en la \>
+  - Il n'est pas permis de déplacer la balle en l'accrochant ou en la
     tenant avec n'importe quel doigt.
 
 9.1.3 Pousser, déplacer de façon excessive ou constante la table d'une
@@ -564,13 +590,13 @@ dernières ne doivent pas descendre en dessous du coude.
 
 10.2. Les joueurs doivent porter une protection pour la main.
 
-  - La protection de la main ne doit pas couvrir plus de six (6) cm \>
+  - La protection de la main ne doit pas couvrir plus de six (6) cm
     au-dessus du poignet.
 
   - la protection de la main ne doit pas dépasser une épaisseur de 2,5
     cm sur le dos de la main du bout des doigts jusqu'au poignet
 
-  - La protection de la main ne doit pas élargir la main de plus de \>
+  - La protection de la main ne doit pas élargir la main de plus de
     deux (2) cm de chaque côté.
 
   - Lors de la mesure de la main, le pouce est exclu.
@@ -580,19 +606,19 @@ sur le bras, mais celle-ci doit être d'une couleur différente du gant
 (par exemple bandeau anti-transpiration, bandage, etc.). Cependant, elle
 n'est pas considérée comme faisant partie de la main tenante.
 
-  - Les moyens autorisés pour marquer la fin des six (6) cm sont :
+  - Les moyens autorisés pour marquer la fin des six (6) cm sont&nbsp;:
     
-      - Porter un gant qui s'étend six (6) cm au-dessus de \>
+      - Porter un gant qui s'étend six (6) cm au-dessus de
         l'articulation du poignet.
     
       - Porter un bandeau anti-transpirant avec la MÊME couleur que le
-        gant atteignant jusqu'à six (6) cm au-dessus de \>
-        l'articulation du poignet si la protection de la main est \>
+        gant atteignant jusqu'à six (6) cm au-dessus de
+        l'articulation du poignet si la protection de la main est
         plus courte que cela.
     
       - Porter un bandeau anti-transpirant d’une couleur DIFFÉRENTE de
-        celle du gant en partant de six (6) cm au-dessus de \>
-        l'articulation du poignet (de cette façon, le bras peut \>
+        celle du gant en partant de six (6) cm au-dessus de
+        l'articulation du poignet (de cette façon, le bras peut
         rester nu jusqu’à six (6) cm du poignet).
     
       - Toute combinaison des points ci-dessus.
@@ -610,7 +636,7 @@ pour pouvoir participer à une compétition.
 
 10.5. L'arbitre doit être clairement identifiable comme tel.
 
-# **C : DESCRIPTION DE L’ÉQUIPEMENT** {#cs}
+# **C&nbsp;: DESCRIPTION DE L’ÉQUIPEMENT** {#cs}
 
 ## **11. RAQUETTES** {#cs11}
 
@@ -620,15 +646,15 @@ souple (une couche jusqu'à deux (2) mm d'un côté ou des deux). Le
 chevauchement du manche et de la lame peut avoir n’importe quelle
 longueur.
 
-Dimensions maximales :
+Dimensions maximales&nbsp;:
 
   - Longueur totale : 30 cm
 
-  - Longueur de la lame : 20 cm
+  - Longueur de la lame&nbsp;: 20 cm
 
-  - Largeur de la lame : 7,5 cm
+  - Largeur de la lame&nbsp;: 7,5 cm
 
-  - Épaisseur de la lame : 1 cm (y compris la couverture souple)
+  - Épaisseur de la lame&nbsp;: 1 cm (y compris la couverture souple)
 
   - Diamètre du manche 4 cm
 
@@ -640,11 +666,11 @@ cm.
   - L'épaisseur de la couverture souple peut aller jusqu'à deux (2) mm
     de chaque côté, mais la largeur totale de la lame ne doit pas
     être supérieure à dix (10) mm. Par exemple, il est possible
-    d'avoir une raquette avec ces mesures : couverture souple de 2 mm
+    d'avoir une raquette avec ces mesures&nbsp;: couverture souple de 2 mm
     + lame de 6 mm + couverture souple de 2 mm.
 
   - La largeur et la longueur de la zone de chevauchement du manche et
-    de la lame peuvent aller jusqu'à quarante (40)mm (ce qui est \>
+    de la lame peuvent aller jusqu'à quarante (40)mm (ce qui est
     compatible avec la largeur du manche).
 
 Plans disponibles sur le site Web de l'IBSA -
@@ -661,34 +687,34 @@ points pour la liste de classement IBSA.
 
 ## **13. TABLE** {#cs13}
 
-Dimensions :
+Dimensions&nbsp;:
 
-  - Longueur intérieure : 366 cm (tolérance de 5 mm)
+  - Longueur intérieure&nbsp;: 366 cm (tolérance de 5 mm)
 
-  - Largeur intérieure : 122 cm (tolérance de 5 mm)
+  - Largeur intérieure&nbsp;: 122 cm (tolérance de 5 mm)
 
   - Hauteur (pont de jeu à partir du sol): 78 cm
 
-  - Paroi latérale : 14 cm
+  - Paroi latérale&nbsp;: 14 cm
 
-  - Angles (rayon intérieur) : 23 cm
+  - Angles (rayon intérieur)&nbsp;: 23 cm
 
-  - Poche de but (demi-cercle) : 30 cm de diamètre
+  - Poche de but (demi-cercle)&nbsp;: 30 cm de diamètre
 
-  - Trou vertical rectangulaire : 30 cm x 10 cm (dans la paroi de but)
+  - Trou vertical rectangulaire&nbsp;: 30 cm x 10 cm (dans la paroi de but)
 
-  - Ligne de démarcation tactile pour la zone de but : 40 cm de diamètre
+  - Ligne de démarcation tactile pour la zone de but&nbsp;: 40 cm de diamètre
 
-  - Planche de contact : 5 cm de surplomb à l'intérieur de la table, un
+  - Planche de contact&nbsp;: 5 cm de surplomb à l'intérieur de la table, un
     surplomb à l'extérieur de la table est autorisé.
 
-  - Écran central : 42 cm du haut des parois latérales, 10 cm \>
+  - Écran central&nbsp;: 42 cm du haut des parois latérales, 10 cm
     d'ouverture depuis le pont de jeu.
 
 Plans disponibles sur le site Web de l'IBSA -
 http://www.ibsasport.org/sports/showdown/rules
 
-# **D : RÈGLES DE JEU EN ÉQUIPE** {#ds}
+# **D&nbsp;: RÈGLES DE JEU EN ÉQUIPE** {#ds}
 
 ## **14. RÈGLES GÉNÉRALES POUR LE JEU D'ÉQUIPE** {#ds14}
 
@@ -712,8 +738,8 @@ tournoi.
 ## **16. RÈGLES SUPPLÉMENTAIRES** {#ds16}
 
 16.1 l’équipe qui remporte le match est celle qui atteint un minimum de
-trente-et-un (31) points avec un écart de deux points (2), par exemple :
-31 :29.
+trente-et-un (31) points avec un écart de deux points (2), par exemple&nbsp;:
+31:29.
 
 16.2 Chaque joueur fait trois (3) services après lesquels il/elle cède
 sa place et laisse les services à son coéquipier(e) qui doit d'abord
