@@ -791,12 +791,12 @@ Cet ordre est répété jusqu'à la fin du match.
 
 # **REMERCIEMENTS** {#remerciements}
 
-- DYANA SAHNOUN Licence en anglais
+- DYANA SAHNOUN Licenciée en Anglais
 
 - KHALIL TRIFI Enseignant d’activité physique adaptée
 
-- EMMANUEL COUTRIS Référent Showdown handisport
+- EMMANUEL COUTRIS Référent Showdown Handisport
 
-- MADJID GUITOUNE Correspondant clubs Showdown handisport
+- MADJID GUITOUNE Correspondant clubs Showdown Handisport
 
-- ELSA DUPOMMIER-ROUILLARD Relectrice
+- ELSA DUPOMMIER-ROUILLARD Attachée administrative
