@@ -23,25 +23,25 @@ l'IBSA.
 
 - [**1. Préambule**](#preambule)
 - [**A&nbsp;: DÉFINITIONS**](#as)
-- [**B&nbsp;: Règles de jeu**](#bs)
-  - [**2. RÈGLES GÉNÉRALES**](#bs2)
+- [**B&nbsp;: RÈGLES DE JEU**](#bs)
+  - [**2. Règles générales**](#bs2)
   - [**3. Temps morts**](#bs3)
   - [**4. Marquage des points**](#bs4)
-  - [**5. DÉBUT DU JEU**](#bs5)
+  - [**5. Début du jeu**](#bs5)
   - [**6. Services**](#bs6)
   - [**7. Jeu**](#bs7)
   - [**8. Balle morte**](#bs8)
-  - [**9. PÉNALITÉS**](#bs9)
-  - [**10. TENUE**](#bs10)
+  - [**9. Pénalités**](#bs9)
+  - [**10. Tenue**](#bs10)
 - [**C&nbsp;: DESCRIPTION DE L’ÉQUIPEMENT**](#cs)
-  - [**11. RAQUETTES**](#cs11)
-  - [**12. BALLES**](#cs12)
-  - [**13. TABLE**](#cs13)
+  - [**11. Raquettes**](#cs11)
+  - [**12. Balles**](#cs12)
+  - [**13. Table**](#cs13)
 - [**D&nbsp;: RÈGLES DE JEU EN ÉQUIPE**](#ds)
-  - [**14. RÈGLES GÉNÉRALES POUR LE JEU D'ÉQUIPE**](#ds14)
-  - [**15. ÉQUIPES**](#ds15)
-  - [**16. RÈGLES SUPPLÉMENTAIRES**](#ds16)
-  - [**17. SYSTÈME de JEU**](#ds17)
+  - [**14. Règles générales pour le jeu d'équipe**](#ds14)
+  - [**15. Équipes**](#ds15)
+  - [**16. Règles supplémentaires**](#ds16)
+  - [**17. Système de jeu**](#ds17)
 - [**REMERCIEMENTS**](#remerciements)
 
 # **1. Préambule** {#preambule}
@@ -82,7 +82,7 @@ l'IBSA, la version anglaise prévaut.
 **Main tenante**  
 : La main qui tient la raquette (y compris les 6 cm au-dessus du
   poignet). La main tenante inclut la protection comme décrite dans
-  la règle 10.2.
+  la règle 10.2. <br/>
 
 **Écran central**  
 : La planche rectangulaire qui divise la zone de jeu en deux.
@@ -230,9 +230,9 @@ l'IBSA, la version anglaise prévaut.
   - Si l'avertissement a été donné lorsque la balle n'était pas en
     jeu, le match se poursuivra avec le service régulier suivant.
 
-# **B&nbsp;: Règles de jeu** {#bs}
+# **B&nbsp;: RÈGLES DE JEU** {#bs}
 
-## **2. RÈGLES GÉNÉRALES** {#bs2}
+## **2. Règles générales** {#bs2}
 
 2.1 Les officiels pour chaque table durant un tournoi sont&nbsp;:
 
@@ -382,7 +382,7 @@ ailleurs, dans ou hors de la table, il y a une défense illégale et un
 phrase dans cette règle&nbsp;: Aucun contact n'est autorisé dans la zone de
 but avec la balle.
 
-## **5. DÉBUT DU JEU** {#bs5}
+## **5. Début du jeu** {#bs5}
 
 5.1 Avant le début du match l'arbitre, l’arbitre second, les joueurs et
 les entraîneurs sont présentés par l'arbitre.
@@ -514,7 +514,7 @@ joueur a perdu sa trace.
 l'arbitre la déclare morte. La balle est inaudible lorsque l'arbitre
 n'est pas capable de l'entendre bouger sur la table.
 
-## **9. PÉNALITÉS** {#bs9}
+## **9. Pénalités** {#bs9}
 
 **9.1 Pénalités avec avertissements.**
 
@@ -583,7 +583,7 @@ l'arbitre attend cinq (5) minutes et que le joueur n'apparaît pas, il
 perd le match par défaut. Si un joueur arrive à plusieurs reprises en
 retard, il peut être exclu du tournoi.
 
-## **10. TENUE** {#bs10}
+## **10. Tenue** {#bs10}
 
 10.1. Les joueurs doivent porter un haut à manches courtes, ces
 dernières ne doivent pas descendre en dessous du coude.
@@ -638,7 +638,7 @@ pour pouvoir participer à une compétition.
 
 # **C&nbsp;: DESCRIPTION DE L’ÉQUIPEMENT** {#cs}
 
-## **11. RAQUETTES** {#cs11}
+## **11. Raquettes** {#cs11}
 
 Les raquettes d'une longueur de trente (30) cm, doivent être construites
 d'un matériau dur et lisse. Elles peuvent être recouvertes d’un matériau
@@ -676,7 +676,7 @@ cm.
 Plans disponibles sur le site Web de l'IBSA -
 http://www.ibsasport.org/sports/showdown/rules
 
-## **12. BALLES** {#cs12}
+## **12. Balles** {#cs12}
 
 Les balles doivent être rendues audibles. Les balles doivent avoir six
 (6) cm de diamètre avec une surface dure et lisse. Les balles doivent
@@ -685,7 +685,7 @@ utilisées pendant les tournois de l'IBSA. Les tournois IBSA sont tous
 les championnats officiels et les tournois où vous pouvez recevoir des
 points pour la liste de classement IBSA.
 
-## **13. TABLE** {#cs13}
+## **13. Table** {#cs13}
 
 Dimensions&nbsp;:
 
@@ -716,13 +716,13 @@ http://www.ibsasport.org/sports/showdown/rules
 
 # **D&nbsp;: RÈGLES DE JEU EN ÉQUIPE** {#ds}
 
-## **14. RÈGLES GÉNÉRALES POUR LE JEU D'ÉQUIPE** {#ds14}
+## **14. Règles générales pour le jeu d'équipe** {#ds14}
 
 14.1 La compétition par équipe se joue selon les règles de l'IBSA pour
 le jeu en équipe tel qu'il est indiqué ci-dessus sauf indication
 contraire.
 
-## **15. ÉQUIPES** {#ds15}
+## **15. Équipes** {#ds15}
 
 15.1 Une équipe doit être mixte, c'est-à-dire que la composition d’une
 équipe doit être de deux joueurs (2) et d’une (1) joueuse et ou
@@ -735,7 +735,7 @@ d'une autre équipe nationale, par exemple un joueur de l'équipe
 nationale A ne peut pas jouer pour l'équipe nationale B pendant le
 tournoi.
 
-## **16. RÈGLES SUPPLÉMENTAIRES** {#ds16}
+## **16. Règles supplémentaires** {#ds16}
 
 16.1 l’équipe qui remporte le match est celle qui atteint un minimum de
 trente-et-un (31) points avec un écart de deux points (2), par exemple&nbsp;:
@@ -764,7 +764,7 @@ L'arbitre doit ouvrir la porte.
 
 16.7 Chaque équipe peut prendre un (1) temps mort par match.
 
-## **17. SYSTÈME de JEU** {#ds17}
+## **17. Système de jeu** {#ds17}
 
 1\. Le joueur 1 de l'équipe A (A1) sert 3 fois contre le joueur 1 de
 l'équipe B (B1).
