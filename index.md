@@ -86,7 +86,6 @@ l'IBSA, la version anglaise prévaut.
 
 **Écran central**  
 : La planche rectangulaire qui divise la zone de jeu en deux.
-
   L'écran central repose sur les parois latérales au-dessus de la
   zone de jeu.
 
@@ -97,7 +96,6 @@ l'IBSA, la version anglaise prévaut.
 **Abandonner un match**  
 : Lorsqu'un joueur «abandonne un match», il démissionne
   volontairement, par exemple en raison d'une blessure.  
-
   Le joueur qui abandonne un match gardera ses sets gagnés et ses
   points dans le set en cours. Il perd avec le résultat le plus
   faible possible.  
@@ -132,7 +130,6 @@ l'IBSA, la version anglaise prévaut.
 **Perdre par défaut**
 : Un joueur «&nbsp;perd un match par défaut&nbsp;»
   lorsqu'il enfreint certaines règles.  
-
   Le joueur qui perd un match par défaut perdra tous les sets sans
   aucun point. Les points et les sets déjà gagnés par ce joueur
   seront annulés.  
@@ -199,7 +196,6 @@ l'IBSA, la version anglaise prévaut.
 **L'échauffement**
 : s'applique à la compétition individuelle et
   en équipe.  
-
   Il s’agit du temps durant lequel deux joueurs ou plus peuvent
   pratiquer librement les uns avec les autres et s'habituer à la
   table. La durée de l'échauffement est généralement de 60
@@ -217,10 +213,8 @@ l'IBSA, la version anglaise prévaut.
 **Avertissement**
 : Les avertissements émis sont valables pour
   l'ensemble du match.
-  
   Un avertissement émis dans le jeu d'équipe est valable pour toute
   l'équipe et l'ensemble du match.
-  
   L'arbitre peut émettre un avertissement lorsque la balle est en jeu
   ou en pause.
   
