@@ -194,7 +194,7 @@ l'IBSA, la version anglaise prévaut.
 : Le temps de jeu total accumulé.
 
 **L'échauffement**
-: s'applique à la compétition individuelle et
+: S'applique à la compétition individuelle et
   en équipe.  
   Il s’agit du temps durant lequel deux joueurs ou plus peuvent
   pratiquer librement les uns avec les autres et s'habituer à la
@@ -668,7 +668,7 @@ cm.
     compatible avec la largeur du manche).
 
 Plans disponibles sur le site Web de l'IBSA -
-http://www.ibsasport.org/sports/showdown/rules
+[ici](http://www.ibsasport.org/sports/showdown/rules).
 
 ## **12. Balles** {#cs12}
 
@@ -706,7 +706,7 @@ Dimensions&nbsp;:
     d'ouverture depuis le pont de jeu.
 
 Plans disponibles sur le site Web de l'IBSA -
-http://www.ibsasport.org/sports/showdown/rules
+[ici](http://www.ibsasport.org/sports/showdown/rules).
 
 # **D&nbsp;: RÈGLES DE JEU EN ÉQUIPE** {#ds}
 
